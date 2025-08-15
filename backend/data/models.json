@@ -1,0 +1,15 @@
+
+[
+  {
+    "name": "facebook/bart-large-cnn",
+    "license": "MIT",
+    "tags": ["summarization", "news", "legal"],
+    "reason": "Optimized for summarizing news and legal texts."
+  },
+  {
+    "name": "openai/gpt-neo",
+    "license": "MIT",
+    "tags": ["chatbot", "conversation", "general"],
+    "reason": "Good for general conversational AI tasks."
+  }
+]

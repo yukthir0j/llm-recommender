@@ -1,0 +1,16 @@
+{
+    "35de6f16-e548-487c-a8bd-f0ea219d0553": [
+        {
+            "id": "e43338fb-510e-4b87-959c-728a7bcaf8c7",
+            "user_id": "35de6f16-e548-487c-a8bd-f0ea219d0553",
+            "name": "Workspace 1",
+            "created_at": "2025-07-22T00:35:44.380322"
+        },
+        {
+            "id": "31a458a6-1c98-439f-99d7-f630bdcd7663",
+            "user_id": "35de6f16-e548-487c-a8bd-f0ea219d0553",
+            "name": "Workspace 2",
+            "created_at": "2025-07-22T00:35:48.735217"
+        }
+    ]
+}
